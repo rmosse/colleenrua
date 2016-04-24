@@ -1,7 +1,7 @@
 # Ignore wp-config.php and .htaccess
+/vendor
 /public/wp
 /public/wp-content
-/vendor
 production-config.php
 local-config.php
 
